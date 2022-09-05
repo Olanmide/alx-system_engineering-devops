@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt Best School > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+fmt < Best School > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
